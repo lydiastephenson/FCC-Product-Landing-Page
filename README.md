@@ -2,6 +2,8 @@
 
 Objective: Build an app that is functionally similar to <https://product-landing-page.freecodecamp.rocks>
 
+Final Project: <https://fcc-product-landing-page--lydia-stephenson.repl.co/>
+
 ## User Stories:
 
 1. Your product landing page should have a header element with a corresponding id="header"
